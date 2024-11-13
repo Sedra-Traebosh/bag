@@ -1,0 +1,30 @@
+.content {
+  background-color: #bb3361;
+}
+.main {
+  display: block;
+  text-align: center;
+  padding: 10px;
+}
+.pr {
+  background-color: aliceblue;
+  text-align: center;
+  font-size: xxx-large;
+  font-family: sans-serif;
+  font-weight: 700;
+  margin-bottom: 50px;
+}
+
+.input {
+  margin-top: 10px;
+  font-size: x-large;
+}
+
+.inp {
+  width: 50%;
+  height: 30px;
+}
+
+label {
+  color: white;
+}
